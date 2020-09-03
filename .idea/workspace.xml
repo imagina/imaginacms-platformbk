@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e52e20a9-5009-4a9b-a061-b88569975798" name="Default Changelist" comment="" />
+    <list default="true" id="e52e20a9-5009-4a9b-a061-b88569975798" name="Default Changelist" comment="First commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +13,7 @@
     </execution>
   </component>
   <component name="ProjectId" id="1gyYUc3T9QVD2b9pWLDTc05V0ym" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
