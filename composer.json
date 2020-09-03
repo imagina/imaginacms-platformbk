@@ -29,7 +29,7 @@
         "imagina/inotification": "4.*",
         "imagina/bcrud-module": "3.*",
         "imagina/media-module": "1.*",
-        "imagina/menu-module": "1.*",
+        "imagina/menu-module": "3.*",
         "imagina/ipage-module": "1.*",
         "imagina/isetting-module": "1.*",
         "imagina/itag-module": "1.*",
